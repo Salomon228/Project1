@@ -1,0 +1,34 @@
+
+body {
+		background-image:url("fon.jpg");
+		color: black;
+		font-size: 1.3em;
+	      }
+   	h1 {
+	 	color: blue;
+		font-size:250%;
+		font-weight:900;
+		font-family:"Comic Sans MS";
+		text-align: center;
+ 		}
+	img {
+		border-radius: 20px;
+}
+	#intro {
+		font-size: 1.5em;
+    		}
+	.colorful {
+ 		color:blue;
+		}
+
+.gradient-text {
+  font-family: 'Comic Sans MS', sans-serif;
+  font-size: 50px;
+  text-transform: uppercase;
+  background: linear-gradient(45deg,magenta,blue,yellow);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #0B2349;
+  display: table;
+  margin: 20px auto;
+}
